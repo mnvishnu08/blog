@@ -29,6 +29,7 @@ linkedin_username: vishnumn
 
 # Build settings
 theme: minima
+skin:Dark
 plugins:
   - jekyll-feed
 
